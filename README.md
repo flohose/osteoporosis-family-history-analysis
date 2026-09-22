@@ -1,7 +1,7 @@
 # Does Family History Predict Osteoporosis Risk?
 
 A personal data project exploring whether family history of osteoporosis 
-is associated with a higher diagnosis rate — and what role lifestyle 
+is associated with a higher diagnosis rate and what role lifestyle 
 factors like calcium, vitamin D, and physical activity might play.
 
 ## Why
