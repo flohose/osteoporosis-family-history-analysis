@@ -26,4 +26,4 @@ have a higher rate of osteoporosis diagnosis than those without one?
 (Kaggle) — 1,959 rows, 16 columns, one row per individual.
 
 ## Status
-In progress — course project for CSC 381, due October 14, 2026.
+Completed- Course project for CSC 381. 
